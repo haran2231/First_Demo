@@ -1,7 +1,7 @@
 <?php
 
 //demos
-echo "hello hari hara sudhan";
+echo "hello hari sudhan";
 echo "sucess";
 
 ?>
